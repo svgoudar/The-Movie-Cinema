@@ -365,7 +365,7 @@
                 "sha256:e534f5f3796db6781c87e9835dcd51b7854c8c5a379c9210b93605965c1941fd"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==0.24.0"
+            "version": ">=0.18.0"
         },
         "scipy": {
             "hashes": [
