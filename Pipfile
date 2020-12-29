@@ -32,6 +32,7 @@ sklearn = "*"
 panda = "*"
 bs4 = "*"
 pandas = "*"
+cython = "*"
 
 [dev-packages]
 
